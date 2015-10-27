@@ -64,3 +64,24 @@ Asana is the easiest way for teams to track their work—and get results. Asana 
 
 ---
 
+## Continuos Integration
+
+### [Codeship](https://codeship.com/)
+Continuous Integration & Delivery as a Service, offering 100 private builds per month with unlimited users, up to 5 projects. Unlimited builds for open source projects.
+
+### [Circle CI](https://circleci.com/)
+Circle CI divides tests intelligently based on average execution time and run an even workload on multiple containers in parallel. The first container is free with 1500 build minutes per month
+
+### [Wercker](http://wercker.com/)
+Wercker runs tests in Docker containers and it's completely free while in beta (up to 2 concurrent builds).
+
+### [Shippable](https://shippable.com)
+Frictionless Dockerized pipelines with continuous integration, automated functional testing, and deployment to any cloud provider. Free for 1 concurrent build.
+
+### [Travis CI](https://travis-ci.com/)
+Hosted, distributed continuous integration service, free for open source projects.
+
+### [Jenkins](http://jenkins-ci.org/)
+An extensible open source continuous integration server.
+
+---
