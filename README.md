@@ -14,6 +14,11 @@ Heroku is a cloud platform as a service supporting several programming languages
 ### [Parse](https://www.parse.com/)
 Parse is a cloud app platform that enables users to add a scalable and powerful backend to launch a full-featured app. The free account includes 20GB of storage, 20GB database, 2TB file transfer, and up to 30 requests per second.
 
+### [Digital Ocean]()
+Deploy an SSD cloud server in 55 seconds. Plans start as low as 5$/month, including 512MB RAM, 20GB SSD hard drive, and 1TB transfer.
+
+### [Microsoft Azure](https://azure.microsoft.com/)
+Microsoft Azure is a cloud computing platform and infrastructure for building, deploying and managing applications and services through a global network of datacenters. It provides both PaaS and IaaS services and supports many different programming languages, tools and frameworks, including both Microsoft-specific and third-party software and systems. The App service comes with a free plan with 1GB of RAM and 1GB of storage.
 ---
 
 ## Databases and Storage
