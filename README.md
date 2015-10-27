@@ -1,32 +1,5 @@
 # Awesome Tools
 Curated list of awesome tools to help your startup grow!
-
-## Email Marketing and Transactional Emails
-
-### [SendGrid](https://sendgrid.com/)
-The free plan includes 12,000 emails per month.
-
-### [Mailgun](https://www.mailgun.com/)
-Your first 10,000 emails are free every month.
-
-### [Mandrill](http://mandrill.com/) (by Mailchimp)
-Every Mandrill account comes with 2,000 free trial sends. Once you’ve finished your free trial, it’s $9.95/month for 25,000 emails. After that, we charge on a per-thousand-email basis. Since we build discounts into our payment structure, your per-email pricing automatically decreases as you send more email.
-
----
-
-## Collaboration and Project Management 
-
-### [Slack](https://slack.com/)
-Slack is free to use for as long as you want, and with an unlimited number of people. The free version limits the number of features to be used.
-
-### [Trello](https://trello.com/)
-Trello is the free, flexible, and visual way to organize anything with anyone. With the free plan you can create unlimited boards, lists, cards, members, checklists, attachments, etc. Basic features and integrations are included.
-
-### [Asana](https://asana.com/)
-Asana is the easiest way for teams to track their work—and get results. Asana is free for teams up to 15 people.
-
----
-
 ## Cloud Computing and Services
 
 ### [Google Cloud Platform](https://cloud.google.com/)
@@ -53,4 +26,32 @@ Fully managed MongoDB-as-a-Service. The free account gives you a single 500MB da
 
 ## [Firebase](https://www.firebase.com/)
 Firebase is a real-time database system that allows you easily build applications without worrying about a backend. It also offers static file hosting and authentication systems. The free plan gives you 1GB of storage, 10GB transfer and up to 100 concurrent connections.
+
+---
+
+## Email Marketing and Transactional Emails
+
+### [SendGrid](https://sendgrid.com/)
+The free plan includes 12,000 emails per month.
+
+### [Mailgun](https://www.mailgun.com/)
+Your first 10,000 emails are free every month.
+
+### [Mandrill](http://mandrill.com/) (by Mailchimp)
+Every Mandrill account comes with 2,000 free trial sends. Once you’ve finished your free trial, it’s $9.95/month for 25,000 emails. After that, we charge on a per-thousand-email basis. Since we build discounts into our payment structure, your per-email pricing automatically decreases as you send more email.
+
+---
+
+## Collaboration and Project Management 
+
+### [Slack](https://slack.com/)
+Slack is free to use for as long as you want, and with an unlimited number of people. The free version limits the number of features to be used.
+
+### [Trello](https://trello.com/)
+Trello is the free, flexible, and visual way to organize anything with anyone. With the free plan you can create unlimited boards, lists, cards, members, checklists, attachments, etc. Basic features and integrations are included.
+
+### [Asana](https://asana.com/)
+Asana is the easiest way for teams to track their work—and get results. Asana is free for teams up to 15 people.
+
+---
 
