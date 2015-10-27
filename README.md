@@ -27,7 +27,7 @@ Asana is the easiest way for teams to track their work—and get results. Asana 
 
 ---
 
-## Cloud Computing
+## Cloud Computing and Services
 
 ### [Google Cloud Platform](https://cloud.google.com/)
 Google Cloud Platform is a cloud computing platform by Google that offers hosting on the same supporting infrastructure that Google uses internally for end-user products like Google Search and YouTube. Services include a PaaS (App Engine), IaaS (Compute Engine), storage and database services (Cloud Storage, Cloud SQL, BigTable), big data tools (Datalab, Dataflow) and more. Most services include a free quota.
@@ -37,4 +37,20 @@ Amazon Web Services, is a collection of remote computing services, also called w
 
 ### [Heroku](https://www.heroku.com/)
 Heroku is a cloud platform as a service supporting several programming languages, built on top of AWS. It includes a number of services that you can easily integrate via add-ons. The free account lets you create an app that must sleep 6 hours a day.
+
+### [Parse](https://www.parse.com/)
+Parse is a cloud app platform that enables users to add a scalable and powerful backend to launch a full-featured app. The free account includes 20GB of storage, 20GB database, 2TB file transfer, and up to 30 requests per second.
+
+---
+
+## Databases and Storage
+
+## [MongoDB](https://www.mongodb.org/)
+MongoDB is an open-source, document database designed for ease of development and scaling.
+
+## [Mongolab](https://mongolab.com/)
+Fully managed MongoDB-as-a-Service. The free account gives you a single 500MB database.
+
+## [Firebase](https://www.firebase.com/)
+Firebase is a real-time database system that allows you easily build applications without worrying about a backend. It also offers static file hosting and authentication systems. The free plan gives you 1GB of storage, 10GB transfer and up to 100 concurrent connections.
 
