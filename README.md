@@ -62,6 +62,9 @@ Trello is the free, flexible, and visual way to organize anything with anyone. W
 ### [Asana](https://asana.com/)
 Asana is the easiest way for teams to track their work—and get results. Asana is free for teams up to 15 people.
 
+### [Taskade](https://Taskade.com/)
+Taskade is team productivity made simple and fun. Instantly create task lists, notes and outlines for your projects.
+
 ---
 
 ## Continuos Integration
